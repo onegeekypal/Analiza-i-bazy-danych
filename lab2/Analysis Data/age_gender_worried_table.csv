@@ -5,13 +5,11 @@ age,gender,Worried?
 18 - 29,Male,No
 18 - 29,Male,Yes
 18 - 29,Male,No
-,,Yes
 18 - 29,Male,No
 18 - 29,Male,No
 18 - 29,Male,No
 18 - 29,Male,No
 18 - 29,Male,No
-,,Yes
 18 - 29,Male,Yes
 18 - 29,Male,No
 18 - 29,Male,Yes
@@ -24,7 +22,6 @@ age,gender,Worried?
 18 - 29,Male,No
 18 - 29,Male,Yes
 30 - 44,Male,Yes
-18 - 29,Male,No
 30 - 44,Male,No
 30 - 44,Male,No
 30 - 44,Male,No
@@ -32,14 +29,11 @@ age,gender,Worried?
 18 - 29,Male,Yes
 18 - 29,Male,No
 30 - 44,Male,Yes
-18 - 29,Male,Yes
-30 - 44,Male,Yes
 18 - 29,Male,No
 18 - 29,Male,No
 18 - 29,Male,Yes
 18 - 29,Male,Yes
 30 - 44,Male,No
-30 - 44,Male,Yes
 18 - 29,Male,No
 45 - 59,Male,Yes
 45 - 59,Male,Yes
@@ -86,10 +80,8 @@ age,gender,Worried?
 30 - 44,Male,Yes
 45 - 59,Male,Yes
 30 - 44,Male,Yes
-18 - 29,Male,Yes
 30 - 44,Male,Yes
 45 - 59,Male,No
-18 - 29,Male,No
 30 - 44,Male,Yes
 45 - 59,Male,No
 45 - 59,Male,No
@@ -141,16 +133,13 @@ age,gender,Worried?
 60,Male,No
 18 - 29,Male,Yes
 60,Male,No
-18 - 29,Male,Yes
 45 - 59,Male,No
-30 - 44,Male,Yes
 30 - 44,Male,Yes
 60,Male,Yes
 45 - 59,Male,No
 60,Male,Yes
 45 - 59,Male,No
 45 - 59,Male,Yes
-,,No
 30 - 44,Male,Yes
 30 - 44,Male,No
 60,Male,No
@@ -161,7 +150,6 @@ age,gender,Worried?
 18 - 29,Male,No
 30 - 44,Male,No
 45 - 59,Male,No
-,,No
 45 - 59,Male,No
 18 - 29,Male,No
 18 - 29,Male,Yes
@@ -174,15 +162,12 @@ age,gender,Worried?
 45 - 59,Male,No
 60,Male,Yes
 45 - 59,Male,No
-30 - 44,Male,No
 30 - 44,Male,No
 18 - 29,Male,No
 45 - 59,Male,Yes
 60,Male,Yes
 60,Male,No
 30 - 44,Male,No
-30 - 44,Male,Yes
-18 - 29,Male,Yes
 30 - 44,Male,No
 60,Male,No
 45 - 59,Male,No
@@ -235,7 +220,6 @@ age,gender,Worried?
 45 - 59,Male,No
 60,Male,Yes
 30 - 44,Male,Yes
-18 - 29,Female,No
 45 - 59,Male,No
 30 - 44,Male,No
 30 - 44,Male,No
@@ -292,7 +276,6 @@ age,gender,Worried?
 45 - 59,Female,Yes
 45 - 59,Male,No
 30 - 44,Female,Yes
-45 - 59,Male,No
 60,Female,No
 30 - 44,Male,No
 18 - 29,Female,No
@@ -315,7 +298,6 @@ age,gender,Worried?
 30 - 44,Female,No
 30 - 44,Female,Yes
 30 - 44,Male,No
-30 - 44,Female,No
 60,Male,Yes
 18 - 29,Female,No
 18 - 29,Female,No
@@ -357,9 +339,7 @@ age,gender,Worried?
 60,Male,No
 18 - 29,Male,No
 18 - 29,Male,No
-,,Yes
 30 - 44,Female,No
-45 - 59,Male,Yes
 45 - 59,Female,No
 60,Male,Yes
 60,Female,No
@@ -394,7 +374,6 @@ age,gender,Worried?
 30 - 44,Male,Yes
 18 - 29,Female,No
 30 - 44,Female,No
-,,Yes
 45 - 59,Male,No
 60,Female,No
 45 - 59,Female,No
@@ -451,7 +430,6 @@ age,gender,Worried?
 30 - 44,Female,No
 30 - 44,Female,No
 45 - 59,Female,Yes
-30 - 44,Female,No
 18 - 29,Female,No
 30 - 44,Female,No
 30 - 44,Male,No
@@ -481,7 +459,6 @@ age,gender,Worried?
 30 - 44,Female,Yes
 18 - 29,Female,Yes
 45 - 59,Male,Yes
-45 - 59,Female,No
 30 - 44,Female,Yes
 45 - 59,Male,Yes
 18 - 29,Female,No
@@ -510,7 +487,6 @@ age,gender,Worried?
 45 - 59,Male,No
 60,Female,Yes
 45 - 59,Male,Yes
-45 - 59,Male,No
 30 - 44,Male,No
 30 - 44,Male,Yes
 18 - 29,Female,No
@@ -582,7 +558,6 @@ age,gender,Worried?
 45 - 59,Female,No
 18 - 29,Male,Yes
 30 - 44,Male,Yes
-60,Female,No
 45 - 59,Female,No
 45 - 59,Female,No
 60,Female,No
@@ -605,7 +580,6 @@ age,gender,Worried?
 60,Male,No
 60,Female,Yes
 30 - 44,Female,Yes
-,,No
 60,Female,No
 30 - 44,Female,No
 45 - 59,Female,No
@@ -658,7 +632,6 @@ age,gender,Worried?
 45 - 59,Female,No
 45 - 59,Male,Yes
 45 - 59,Female,Yes
-,,No
 60,Male,Yes
 30 - 44,Male,No
 45 - 59,Male,Yes
@@ -731,12 +704,10 @@ age,gender,Worried?
 30 - 44,Female,Yes
 45 - 59,Female,No
 18 - 29,Male,No
-60,Female,Yes
 30 - 44,Female,No
 60,Female,Yes
 60,Female,Yes
 60,Male,No
-,,Yes
 30 - 44,Male,No
 30 - 44,Female,No
 45 - 59,Female,No
@@ -770,7 +741,6 @@ age,gender,Worried?
 30 - 44,Female,No
 45 - 59,Female,No
 60,Female,No
-60,Female,Yes
 45 - 59,Male,No
 45 - 59,Male,No
 30 - 44,Female,No
@@ -781,7 +751,6 @@ age,gender,Worried?
 30 - 44,Male,No
 18 - 29,Female,Yes
 45 - 59,Male,Yes
-30 - 44,Male,Yes
 30 - 44,Female,Yes
 30 - 44,Female,No
 60,Female,Yes
@@ -871,7 +840,6 @@ age,gender,Worried?
 18 - 29,Female,No
 60,Female,No
 60,Male,No
-,,Yes
 60,Male,Yes
 45 - 59,Female,No
 18 - 29,Female,No
@@ -983,7 +951,6 @@ age,gender,Worried?
 18 - 29,Female,No
 18 - 29,Female,Yes
 60,Male,Yes
-45 - 59,Female,No
 45 - 59,Male,No
 30 - 44,Female,No
 45 - 59,Female,No
@@ -991,7 +958,6 @@ age,gender,Worried?
 30 - 44,Female,Yes
 60,Female,No
 30 - 44,Female,Yes
-,,No
 45 - 59,Male,Yes
 30 - 44,Female,No
 30 - 44,Female,No
@@ -1011,4 +977,3 @@ age,gender,Worried?
 60,Female,No
 30 - 44,Female,No
 30 - 44,Female,No
-,,No
